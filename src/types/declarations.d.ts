@@ -1,0 +1,37 @@
+declare module 'lucide-react' {
+  import React from 'react';
+  export const Plus: React.FC<any>;
+  export const Minus: React.FC<any>;
+  export const Search: React.FC<any>;
+  export const ShoppingCart: React.FC<any>;
+  export const ShoppingBag: React.FC<any>;
+  export const ChevronDown: React.FC<any>;
+  export const ChevronRight: React.FC<any>;
+  export const ChevronLeft: React.FC<any>;
+  export const User: React.FC<any>;
+  export const LogOut: React.FC<any>;
+  export const Package: React.FC<any>;
+  export const MapPin: React.FC<any>;
+  export const Navigation: React.FC<any>;
+  export const Check: React.FC<any>;
+  export const CheckCircle2: React.FC<any>;
+  export const Building2: React.FC<any>;
+  export const Home: React.FC<any>;
+  export const X: React.FC<any>;
+  export const ArrowLeft: React.FC<any>;
+  export const ArrowRight: React.FC<any>;
+  export const ArrowUpDown: React.FC<any>;
+  export const ShieldCheck: React.FC<any>;
+  export const ShieldAlert: React.FC<any>;
+  export const Smartphone: React.FC<any>;
+  export const Zap: React.FC<any>;
+  export const Clock: React.FC<any>;
+  export const Award: React.FC<any>;
+  export const Star: React.FC<any>;
+  export const Heart: React.FC<any>;
+  export const Grid: React.FC<any>;
+  export const TrendingUp: React.FC<any>;
+  export const Sparkles: React.FC<any>;
+  export const PackageCheck: React.FC<any>;
+  export const Bike: React.FC<any>;
+}
